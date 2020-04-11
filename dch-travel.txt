@@ -1,0 +1,5 @@
+MEMBUAT WEB TOUR AND TRAVEL
+
+Ketentuan :
+1. Penghitungan point member >> point = (harga/1000) / 29
+2. Membuat desain layout
